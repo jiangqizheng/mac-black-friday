@@ -1,0 +1,34 @@
+{
+  "name": "Moordeck",
+  "url": "https://moordeck.com/pricing",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "launch",
+  "description": "Local-first anti-detect browser & Zero-CDP AI control (notarized Apple Silicon .dmg). macOS Apple Silicon & Linux x64 (Windows coming soon).",
+  "discount": "Launch price $79",
+  "code": "BF2026",
+  "prices": [
+    {
+      "plan": "Founding Solo Lifetime",
+      "before": 129,
+      "after": 79
+    },
+    {
+      "plan": "Pro Annual (Year 1)",
+      "before": 108,
+      "after": 81
+    },
+    {
+      "plan": "Team Annual (Year 1)",
+      "before": 348,
+      "after": 261
+    }
+  ],
+  "terms": "Pro/Team Year 1 (renews at $108/$348/yr) via auto-applied BF2026; Solo $79 (200 seats) is one-time. Free 5-profile tier; macOS 13+ notarized .dmg.",
+  "starts": "2026-11-24",
+  "ends": "2026-11-30",
+  "maker": "Kai Jiang",
+  "makerUrl": "https://moordeck.com",
+  "icon": "https://moordeck.com/logo512.png"
+}
